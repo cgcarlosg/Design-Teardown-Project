@@ -47,7 +47,6 @@ a {
   height: 71px;
   width: 200px;
   filter: grayscale(1);
-
 }
 
 .link-item {
@@ -138,10 +137,11 @@ main {
 
 .circle {
   border-radius: 10px;
+  transform: rotate(-20deg);
 }
 
 .circle:hover {
-  transform: rotate(-20deg);
+  transform: rotate(0deg);
   cursor: pointer;
 }
 
@@ -153,14 +153,400 @@ main {
   cursor: pointer;
 }
 
-.Kelvin {
+.Iris {
   grid-column: 1/4;
-  background-color: aqua;
-  height: 500px;
+  background-color: #505050;
+  height: 720px;
+  cursor: pointer;
+  position: relative;
+}
+
+.first-article-content {
+  position: absolute;
+  top: 170px;
+  width: 66%;
+  display: flex;
+  margin-left: 6%;
+  align-items: center;
+}
+
+.iris-photo {
+  width: 87px;
+  height: 87px;
+  filter: grayscale(1);
+  transform: rotate(-15deg);
+}
+
+.iris-photo:hover {
+  transform: rotate(0deg);
+}
+
+.title-iris {
+  width: 170px;
+  height: 25px;
+  background-color: white;
+  margin-left: 40px; 
+}
+
+.description-iris {
+  position: absolute;
+  top: 300px;
+  width: 66%;
+  height: 60px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-iris-two {
+  position: absolute;
+  top: 380px;
+  width: 66%;
+  height: 60px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-iris-three {
+  position: absolute;
+  top: 460px;
+  width: 66%;
+  height: 60px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-iris-four {
+  position: absolute;
+  top: 540px;
+  width: 26%;
+  height: 20px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-iris-five {
+  position: absolute;
+  top: 580px;
+  width: 26%;
+  height: 20px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-iris-six {
+  position: absolute;
+  bottom: 40px;
+  width: 7%;
+  height: 10px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.Kelvin {
+  grid-column: 4/7;
+  background-color: #555555;
+  height: 720px;
+  position: relative;
+}
+
+.second-article-content {
+  position: absolute;
+  top: 170px;
+  width: 66%;
+  display: flex;
+  margin-left: 6%;
+  align-items: center;
+}
+
+.kelvin-photo {
+  width: 87px;
+  height: 87px;
+  filter: grayscale(1);
+  transform: rotate(-15deg);
+}
+
+.kelvin-photo:hover {
+  transform: rotate(0deg);
+}
+
+.title-kelvin {
+  width: 170px;
+  height: 25px;
+  background-color: white;
+  margin-left: 40px; 
+}
+.description-kelvin {
+  position: absolute;
+  top: 300px;
+  width: 66%;
+  height: 60px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-kelvin-two {
+  position: absolute;
+  top: 380px;
+  width: 66%;
+  height: 60px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-kelvin-three {
+  position: absolute;
+  top: 460px;
+  width: 66%;
+  height: 60px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-kelvin-four {
+  position: absolute;
+  top: 540px;
+  width: 26%;
+  height: 20px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-kelvin-five {
+  position: absolute;
+  top: 580px;
+  width: 26%;
+  height: 20px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-kelvin-six {
+  position: absolute;
+  bottom: 40px;
+  width: 7%;
+  height: 10px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
 }
 
 .Chidi {
+  grid-column: 1/4;
+  background-color: #4b4b4b;
+  height: 570px;
+  cursor: pointer;
+  position: relative;
+}
+
+.third-article-content {
+  position: absolute;
+  top: 50px;
+  width: 66%;
+  display: flex;
+  margin-left: 6%;
+  align-items: center;
+}
+
+.chidi-photo {
+  width: 87px;
+  height: 87px;
+  filter: grayscale(1);
+  transform: rotate(-15deg);
+}
+
+.chidi-photo:hover {
+  transform: rotate(0deg);
+}
+
+.title-chidi {
+  width: 170px;
+  height: 25px;
+  background-color: white;
+  margin-left: 40px; 
+}
+
+.description-chidi {
+  position: absolute;
+  top: 180px;
+  width: 66%;
+  height: 60px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-chidi-two {
+  position: absolute;
+  top: 260px;
+  width: 66%;
+  height: 60px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-chidi-three {
+  position: absolute;
+  top: 340px;
+  width: 66%;
+  height: 60px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-chidi-four {
+  position: absolute;
+  top: 420px;
+  width: 10%;
+  height: 20px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-chidi-five {
+  position: absolute;
+  top: 420px;
+  width: 10%;
+  height: 20px;
+  display: flex;
+  margin-left: 20%;
+  background-color: white;
+}
+
+.description-chidi-six {
+  position: absolute;
+  top: 420px;
+  width: 10%;
+  height: 20px;
+  display: flex;
+  margin-left: 34%;
+  background-color: white;
+}
+
+.description-chidi-seven {
+  position: absolute;
+  bottom: 40px;
+  width: 7%;
+  height: 10px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.Zara {
   grid-column: 4/7;
-  background-color: cadetblue;
-  height: 500px;
+  background-color: #505050;
+  height: 570px;
+  cursor: pointer;
+  position: relative;
+}
+
+.fourth-article-content {
+  position: absolute;
+  top: 50px;
+  width: 66%;
+  display: flex;
+  margin-left: 6%;
+  align-items: center;
+}
+
+.zara-photo {
+  width: 87px;
+  height: 87px;
+  filter: grayscale(1);
+  transform: rotate(-15deg);
+}
+
+.zara-photo:hover {
+  transform: rotate(0deg);
+}
+
+.title-zara {
+  width: 170px;
+  height: 25px;
+  background-color: white;
+  margin-left: 40px; 
+}
+
+.description-zara {
+  position: absolute;
+  top: 180px;
+  width: 66%;
+  height: 60px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-zara-two {
+  position: absolute;
+  top: 260px;
+  width: 66%;
+  height: 60px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-zara-three {
+  position: absolute;
+  top: 340px;
+  width: 66%;
+  height: 60px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-zara-four {
+  position: absolute;
+  top: 420px;
+  width: 10%;
+  height: 20px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
+}
+
+.description-zara-five {
+  position: absolute;
+  top: 420px;
+  width: 10%;
+  height: 20px;
+  display: flex;
+  margin-left: 20%;
+  background-color: white;
+}
+
+.description-zara-six {
+  position: absolute;
+  top: 420px;
+  width: 10%;
+  height: 20px;
+  display: flex;
+  margin-left: 34%;
+  background-color: white;
+}
+
+.description-zara-seven {
+  position: absolute;
+  bottom: 40px;
+  width: 7%;
+  height: 10px;
+  display: flex;
+  margin-left: 6%;
+  background-color: white;
 }
