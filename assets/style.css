@@ -1,90 +1,91 @@
 body {
-    max-width: 100%;
-    font-family: 'Chilanka', cursive;
-    background-color: burlywood;
+  max-width: 100%;
+  font-family: 'Chilanka', cursive;
+  background-color: burlywood;
 }
 
 .nav-bar {
-    background-color: #5a5a5a;
-    height: 103px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 21px;
+  background-color: #5a5a5a;
+  height: 103px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 21px;
 }
 
 ul {
-    display: flex;
-    height: 71px;
-    margin: 0;
-    border-radius: 1px;
+  display: flex;
+  height: 71px;
+  margin: 0;
+  border-radius: 1px;
 }
 
 li {
-    list-style: none;
-    height: 71px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-weight: 900;
+  list-style: none;
+  height: 71px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
 }
 
 a {
-    text-decoration: none;
-    color: white;
-    padding: 7.5px 14px;
+  text-decoration: none;
+  color: white;
+  padding: 7.5px 14px;
 }
 
 .logo-img {
-    height: 71px;
-    width: 197px;
-    filter: grayscale(1);
+  height: 71px;
+  width: 197px;
+  filter: grayscale(1);
 }
 
 .link-item {
-    width: 104px;
+  width: 104px;
 }
 
 .link-item-member {
-    width: 149px;
+  width: 149px;
 }
 
 .link-item-btn {
-    width: 138px;
-    height: 71px;
+  width: 138px;
+  height: 71px;
 }
 
 .nav-button {
-    width: 114px;
-    height: 47px;
-    border-radius: 10px;
-    color: white;
-    font-weight: 900;
-    font-size: 21px;
-    font-family: 'Chilanka', cursive;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #3e3e3e;
+  width: 114px;
+  height: 47px;
+  border-radius: 10px;
+  color: white;
+  font-weight: 900;
+  font-size: 21px;
+  font-family: 'Chilanka', cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3e3e3e;
 }
+
 .cat {
-    padding-left: 10px;
+  padding-left: 10px;
 }
 
 .search {
-    width: 350px;
-    height: 56px;
-    border-radius: 10px;
+  width: 350px;
+  height: 56px;
+  border-radius: 10px;
 }
 
 .li-search {
-    position: relative;
-    width: 352px;
-    height: 71px;
+  position: relative;
+  width: 352px;
+  height: 71px;
 }
 
 .lup {
-    position: absolute;
-    left: 10px;
-    width: 25px;
+  position: absolute;
+  left: 10px;
+  width: 25px;
 }
