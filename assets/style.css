@@ -133,12 +133,24 @@ main {
   width: 15.5%;
   margin-left: 83%;
   display: flex;
+  justify-content: space-between;
+}
+
+.circle {
+  border-radius: 10px;
+}
+
+.circle:hover {
+  transform: rotate(-20deg);
+  cursor: pointer;
 }
 
 .btn-scnd {
-  width: 70%;
+  width: 65%;
   height: 50px;
   border-radius: 15px;
+  margin-left: 5px;
+  cursor: pointer;
 }
 
 .Kelvin {
