@@ -651,6 +651,14 @@ main {
   transform: rotate(0deg);
 }
 
+.container-three {
+  display: grid;
+  grid-column: 1/7;
+  grid-template-columns: repeat(6,1fr);
+  grid-template-rows: auto;
+  position: relative;
+}
+
 .article-five {
   grid-column: 1/3;
   background-color: #727272;
@@ -669,7 +677,7 @@ main {
 .line-zero {
   height: 10px;
   width: 20%;
-  background-color: #111111;
+  background-color: #111;
   margin-top: 45px;
   margin-left: 6%;
 }
@@ -711,7 +719,6 @@ main {
   color: white;
   font-weight: bolder;
   font-size: 20px;
-  margin-left: 0;
   padding: 0;
 }
 
@@ -746,7 +753,6 @@ main {
   color: white;
   font-weight: bolder;
   font-size: 20px;
-  margin-left: 0;
 }
 
 .arrow-botton-six:hover {
@@ -780,9 +786,20 @@ main {
   color: white;
   font-weight: bolder;
   font-size: 20px;
-  margin-left: 0;
 }
 
 .arrow-botton-seven:hover {
   background-color: #2c2c2c;
+}
+
+.empty {
+  background-color: white;
+  grid-column: 1/3;
+  height: 795px;
+}
+
+.big-article {
+  background-color: #5a5a5a;
+  grid-column: 3/7;
+  height: 795px;
 }
