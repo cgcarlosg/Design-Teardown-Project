@@ -842,7 +842,7 @@ main {
 }
 
 .publicitytwo {
-  background-color:  #5a5a5a;
+  background-color: #5a5a5a;
   width: 90%;
   height: 795px;
   border-radius: 2%;
@@ -940,39 +940,6 @@ main {
   transform: scale(1.05);
   background-color: #939393;
   z-index: 1;
-}
-
-.line-zero {
-  height: 10px;
-  width: 20%;
-  background-color: #111;
-  margin-top: 45px;
-  margin-left: 6%;
-}
-
-.line-one {
-  height: 15px;
-  width: 80%;
-  background-color: white;
-  margin-top: 10px;
-  margin-left: 6%;
-}
-
-.line-two {
-  height: 15px;
-  width: 40%;
-  background-color: white;
-  margin-top: 20px;
-  margin-bottom: 5px;
-  margin-left: 6%;
-}
-
-.line-three {
-  height: 20px;
-  width: 80%;
-  background-color: white;
-  margin-top: 15px;
-  margin-left: 6%;
 }
 
 .arrow-botton-eight {
