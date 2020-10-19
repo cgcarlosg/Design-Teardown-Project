@@ -881,7 +881,7 @@ main {
   width: 80px;
   background-color: #727272;
   display: flex;
-  align-items: center;  
+  align-items: center;
   color: white;
   font-weight: bolder;
   font-size: 20px;
@@ -1968,7 +1968,7 @@ main {
   grid-column: 1/7;
   height: 1452px;
   position: relative;
-  background-color:  #F4F4F4;
+  background-color: #f4f4f4;
 }
 
 .javascript {
@@ -1991,7 +1991,7 @@ main {
   width: 80%;
   height: 20px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .javascript-two {
@@ -2001,7 +2001,7 @@ main {
   width: 80%;
   height: 45px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .javascript-three {
@@ -2011,7 +2011,7 @@ main {
   width: 80%;
   height: 45px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .javascript-four {
@@ -2021,7 +2021,7 @@ main {
   width: 80%;
   height: 20px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .btn-javascript {
@@ -2044,7 +2044,7 @@ main {
   width: 80%;
   height: 20px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .javascript-six {
@@ -2054,7 +2054,7 @@ main {
   width: 80%;
   height: 20px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .inside-btn-jc {
@@ -2084,7 +2084,7 @@ main {
   width: 80%;
   height: 20px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .css-two {
@@ -2094,7 +2094,7 @@ main {
   width: 80%;
   height: 45px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .css-three {
@@ -2104,7 +2104,7 @@ main {
   width: 80%;
   height: 45px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .css-four {
@@ -2114,7 +2114,7 @@ main {
   width: 80%;
   height: 20px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .btn-css {
@@ -2137,7 +2137,7 @@ main {
   width: 80%;
   height: 20px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .css-six {
@@ -2147,14 +2147,7 @@ main {
   width: 80%;
   height: 20px;
   display: flex;
-  background-color:#5a5a5a;
-}
-
-.inside-btn-jc {
-  height: 25px;
-  width: 85%;
-  background-color: white;
-  position: absolute;
+  background-color: #5a5a5a;
 }
 
 .web {
@@ -2177,7 +2170,7 @@ main {
   width: 80%;
   height: 20px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .web-two {
@@ -2187,7 +2180,7 @@ main {
   width: 80%;
   height: 45px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .web-three {
@@ -2197,7 +2190,7 @@ main {
   width: 80%;
   height: 45px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .web-four {
@@ -2207,7 +2200,7 @@ main {
   width: 80%;
   height: 20px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .btn-web {
@@ -2230,7 +2223,7 @@ main {
   width: 80%;
   height: 20px;
   display: flex;
-  background-color:#5a5a5a;
+  background-color: #5a5a5a;
 }
 
 .web-six {
@@ -2240,14 +2233,7 @@ main {
   width: 80%;
   height: 20px;
   display: flex;
-  background-color:#5a5a5a;
-}
-
-.inside-btn-jc {
-  height: 25px;
-  width: 85%;
-  background-color: white;
-  position: absolute;
+  background-color: #5a5a5a;
 }
 
 .email {
@@ -2347,7 +2333,7 @@ main {
   height: 70px;
   display: flex;
   flex-direction: column;
-  background-color:#585858;
+  background-color: #585858;
   align-items: center;
 }
 
@@ -2394,7 +2380,6 @@ main {
   background-color: #5a5a5a;
   border-radius: 15px;
   display: flex;
-
 }
 
 .jaula-img {
@@ -2478,7 +2463,7 @@ main {
   height: 17px;
   display: flex;
   background-color: white;
-  margin-left:32.5%;
+  margin-left: 32.5%;
 }
 
 .footer-eight {
@@ -2518,6 +2503,5 @@ main {
   height: 14px;
   display: flex;
   background-color: white;
-  margin-left:32.5%;
+  margin-left: 32.5%;
 }
-
