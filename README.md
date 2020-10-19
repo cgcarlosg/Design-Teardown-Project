@@ -2,7 +2,7 @@
 
 This is a grayscale heat map of the Smashing Magazine web page. It is a project to show the implementation of HTML and CSS. It is done to train to think in terms of visual hierarchy, typography and design principles, as part of the microverse program for the fifth project of the curriculum.
 
-![screenshot]()
+![screenshot](https://github.com/cgcarlosg/Design-Teardown-Project/blob/feature/assets/screenshot.png)
 
 
 ## Built With
@@ -13,7 +13,7 @@ This is a grayscale heat map of the Smashing Magazine web page. It is a project 
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://cgcarlosg.github.io/Design-Teardown-Project/.)
 
 
 ## Getting Started
@@ -42,7 +42,7 @@ This projects diplays the videos.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/cgcarlosg/Design-Teardown-Project/issues).
 
 
 ## Show your support
