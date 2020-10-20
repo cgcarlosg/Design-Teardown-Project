@@ -2457,7 +2457,7 @@ main {
   top: 42%;
   width: 85%;
   font-size: 24px;
-  display: flex;  
+  display: flex;
   color: white;
   margin-left: 10%;
   justify-content: center;
@@ -2525,6 +2525,11 @@ main {
   color: white;
 }
 
+.footer-ten a {
+  text-decoration: underline;
+  font-weight: 100;
+}
+
 .footer-eleven {
   position: absolute;
   top: 85%;
@@ -2537,7 +2542,7 @@ main {
   color: white;
 }
 
-a {
+.footer-eleven a {
   text-decoration: underline;
   font-weight: 100;
 }
